@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Shatakshi Serveria! 👋
 
-<!--
-**shatakshiserveria-arch/shatakshiserveria-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | BCA Graduate  
+💻 Aspiring Frontend Developer  
+🌱 Currently learning and improving my development skills.
 
-Here are some ideas to get you started:
+### 💻 Technical Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- Flask
+- SQLite
+- C / C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+**[Mandalaverse](https://github.com/shatakshiserveria-arch/Mandalaverse-)**
+
+An interactive mandala art creation and learning platform built using Python, Flask, HTML, CSS and JavaScript.
+
+*Project Status: Work in Progress*
+
+### 🎯 Career Goal
+Looking for opportunities to learn, grow and contribute as a Frontend Developer.
+
+### 📫 Connect with Me
+- GitHub: [shatakshiserveria-arch](https://github.com/shatakshiserveria-arch)
